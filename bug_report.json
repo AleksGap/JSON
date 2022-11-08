@@ -1,1 +1,9 @@
 
+{
+  "ID":1,
+  "summary":"dont_open_site_gapa.com",
+  "AR":"site_dont_open",
+  "ER":"site_is_open",
+  "priority":"high",
+  "severity":"blocker"
+}
